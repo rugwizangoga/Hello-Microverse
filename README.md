@@ -12,6 +12,13 @@
 - CSS
 - Linters
 
+## Getting Started
+
+$ git clone git@github.com:rugwizangoga/Hello-Microverse.git
+$ cd Hello-Microverse
+
+Then open index.html on the bowser to run the project
+
 👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
