@@ -19,7 +19,7 @@ $ cd Hello-Microverse
 
 Then open index.html on the bowser to run the project
 
-##👤 **Author**
+👤 **##Author**
 
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
